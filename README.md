@@ -7,6 +7,10 @@
 复制代码文件：`worker.js` 在Cloudflare 创建`Worker` 链接数据库自动更新订阅资源
 
 ---
+## 视频演示
+
+[![视频演示](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/13.jpg)](https://tv1288.xyz/0407.mp4)
+
 
 ## 部署方法
 
